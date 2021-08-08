@@ -12,7 +12,7 @@ setup(
     long_description=long_description,
     author='multiii',
     author_email='76multi@gmail.com',
-    url='',
+    url='https://github.com/multiii/TinyDBOperations',
     download_url='',
     keywords=['TinyDB', 'tinydb', 'operations'],
     install_requires=[
