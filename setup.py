@@ -13,7 +13,7 @@ setup(
     author='multiii',
     author_email='76multi@gmail.com',
     url='https://github.com/multiii/TinyDBOperations',
-    download_url='',
+    download_url='https://github.com/multiii/TinyDBOperations/archive/refs/tags/0.1.tar.gz',
     keywords=['TinyDB', 'tinydb', 'operations'],
     install_requires=[
         'TinyDB',
