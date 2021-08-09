@@ -16,7 +16,7 @@ setup(
     download_url='https://github.com/multiii/TinyDBOperations/archive/refs/tags/0.1.tar.gz',
     keywords=['TinyDB', 'tinydb', 'operations'],
     install_requires=[
-        'TinyDB',
+        'tinydb',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
